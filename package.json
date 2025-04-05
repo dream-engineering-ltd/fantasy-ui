@@ -1,0 +1,31 @@
+{
+  "name": "@dream-eng/fantasy-ui",
+  "description": "Cross framework component library with a focus on flexibility and customization via the Fantasy UI app. Learn more at fantasy-ui.com",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "fantasy": "./bin/index.js"
+  },
+  "author": "dream engineering ltd.",
+  "license": "SEE LICENSE IN license.md",
+  "engines": {
+    "node": ">=22.9.0"
+  },
+  "keywords": [
+    "component",
+    "component-cli",
+    "component-framework",
+    "component-library",
+    "components",
+    "fantasy ui",
+    "fantasy-ui",
+    "fantasyui",
+    "mui alternative",
+    "react-components",
+    "shadcn alternative",
+    "ui-components",
+    "web-components",
+    "ui",
+    "ux"
+  ]
+}
